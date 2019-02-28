@@ -1,5 +1,6 @@
 # IT Ticketing and Inventory System
 
+Take a look at the 'Design Walkthrough.MOV' link above and download the short video to see the final product.
 
 **Overview:**
 <br>
@@ -19,4 +20,4 @@ First end to end project completed at my internship during the summer of 2018.  
 •	I leveraged what I already knew about user interface and experience to create and understand the systems I was developing.
 <br>
 
-Take a look at the 'Design Walkthrough.MOV' push and download the short video to see the final product.
+Take a look at the 'Design Walkthrough.MOV' link above and download the short video to see the final product.
