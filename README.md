@@ -1,4 +1,4 @@
-# IT-Issue-and-Ticketing-System
+# IT Ticketing and Inventory System
 
 
 **Overview:**
