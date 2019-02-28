@@ -1,4 +1,4 @@
-# IT Ticketing and Inventory System
+## IT Ticketing and Inventory System
 
 Take a look at the "Design Walkthrough.MOV" link above and download the short video to see the final product.
 
