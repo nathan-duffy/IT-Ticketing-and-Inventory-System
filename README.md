@@ -15,7 +15,7 @@ First end to end project completed at my internship during the summer of 2018.  
 <br>
 •	I encountered numerous problems with Drupal and each one came with their own challenges.
 <br>
-•	Delivering presentations to Randy based off small completions was important to keep him updated on my progress.
+•	Delivering presentations to my manager based off small completions was important to keep him updated on my progress.
 <br>
 •	I leveraged what I already knew about user interface and experience to create and understand the systems I was developing.
 <br>
